@@ -1,0 +1,17 @@
+12.21:14.32.44  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start saveFile[1]: [User{id=17, name='timur', surname='tokaev'}]
+12.21:14.32.44  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:42 - File Saved[2]: [User{id=17, name='timur', surname='tokaev'}]
+12.21:14.32.44  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:92 - showAllUsers test
+12.21:14.32.44  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:213 - showAllUsers[1]: 
+12.21:14.32.44  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - Start loadBeanList[1]: 
+12.21:14.32.44  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:75 - CheckFile[1]: User
+12.21:14.32.44  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:61 - Start loadBeanList[1]: [User{id=17, name='timur', surname='tokaev'}]
+12.21:14.32.44  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:67 - Beans loaded[2]: [User{id=17, name='timur', surname='tokaev'}]
+12.21:14.32.44  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:1511 - User{id=17, name='timur', surname='tokaev'}
+12.21:14.32.44  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:49 - addMeasurementTest success
+12.21:14.32.44  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:377 - addMeasurement[1]: [Measurement{userid=1, weight=65, height=179, age=20, gender='male'}, Measurement{userid=1, weight=65, height=179, age=20, gender='male'}, Measurement{userid=1, weight=65, height=179, age=20, gender='male'}]
+12.21:14.32.44  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - Start loadBeanList[1]: 
+12.21:14.32.44  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:75 - CheckFile[1]: Measurement
+12.21:14.32.44  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:61 - Start loadBeanList[1]: []
+12.21:14.32.44  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:67 - Beans loaded[2]: []
+12.21:14.32.44  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:383 - addMeasurement[2]: []
+12.21:14.32.44  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:387 - Measurement added[2]: Measurement

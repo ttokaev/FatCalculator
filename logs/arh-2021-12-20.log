@@ -1,0 +1,19 @@
+12.20:11.22.17  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:83 - CheckFile[1]: User
+12.20:11.22.17  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:69 - Start loadBeanList[1]: [User{id=6, name='timur', surname='tokaev'}]
+12.20:11.22.17  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:75 - Beans loaded[2]: [User{id=6, name='timur', surname='tokaev'}]
+12.20:11.22.17  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:63 - Start loadBeanList[1]: 
+12.20:11.22.17  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:83 - CheckFile[1]: User
+12.20:11.22.17  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:69 - Start loadBeanList[1]: [User{id=6, name='timur', surname='tokaev'}]
+12.20:11.22.17  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:75 - Beans loaded[2]: [User{id=6, name='timur', surname='tokaev'}]
+12.20:11.22.17  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:294 - User deleted[2]:
+12.20:11.22.17  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:41 - Start saveFile[1]: []
+12.20:11.22.17  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:50 - File Saved[2]: []
+12.20:11.22.17  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:38 - addUserTest success
+12.20:11.22.17  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:256 - addUser[1]: [User{id=17, name='timur', surname='tokaev'}]
+12.20:11.22.17  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:63 - Start loadBeanList[1]: 
+12.20:11.22.17  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:83 - CheckFile[1]: User
+12.20:11.22.17  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:69 - Start loadBeanList[1]: []
+12.20:11.22.17  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:75 - Beans loaded[2]: []
+12.20:11.22.17  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:262 - addUser[2]: []
+12.20:11.22.17  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:266 - User added[2]: User
+12.20:11.22.17  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:83 - CheckFile[1]: User

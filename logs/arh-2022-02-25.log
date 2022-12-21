@@ -1,0 +1,17 @@
+02.25:23.51.16 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:41 - java.io.FileNotFoundException: ./src/main/resources/data/xml/foursiteskinfold.xml (Нет такого файла или каталога)
+02.25:23.51.16 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:592 - deleteFourSiteSkinFoldById Error
+02.25:23.51.16 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:593 - java.lang.NullPointerException: Cannot invoke "java.util.List.removeIf(java.util.function.Predicate)" because "FourSiteSkinFoldList" is null
+02.25:23.51.16  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:34 - addUserTest success
+02.25:23.51.16  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:205 - addUser[1]: 
+02.25:23.51.16  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:31 - Start loadBeanCSV[1]: 
+02.25:23.51.16  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:37 - Beans loaded[2]: [User{id=17, name='timur', surname='tokaev'}]
+02.25:23.51.16  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:213 - [User{id=17, name='timur', surname='tokaev'}]
+02.25:23.51.16  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:73 - Class of elements inside list: User
+02.25:23.51.16  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:73 - Class of elements inside list: User
+02.25:23.51.16  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:53 - Will write to:./src/main/resources/data/csv/user.csv
+02.25:23.51.16  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - ----WRITING----
+02.25:23.51.16  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:57 - [User{id=17, name='timur', surname='tokaev'}, User{id=17, name='timur', surname='tokaev'}]
+02.25:23.51.16  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:217 - User added[2]: 
+02.25:23.51.16  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:251 - deleteUserById[1]:
+02.25:23.51.16  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:31 - Start loadBeanCSV[1]: 
+02.25:23.51.16  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:37 - Beans loaded[2]: [User{id=17, name='timur', surname='tokaev'}, User{id=17, name='timur', surname='tokaev'}]

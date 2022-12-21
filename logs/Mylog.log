@@ -1,0 +1,1181 @@
+06.04:11.55.12 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:430 - measureFat failed
+06.04:11.55.12 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:699 - Start measureFat
+06.04:11.55.12 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:845 - Start selectionMeasurement
+06.04:11.55.12 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:868 - java.lang.Exception: introduced non-existent method!
+06.04:11.55.12 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:725 - java.lang.Exception: selectionMeasurement Error!
+06.04:11.55.12 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:39 - getUserById success
+06.04:11.55.12 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:81 - addUser[1]: User{id=1654332912880, name='timur', surname='tokaev'}
+06.04:11.55.12 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/user.csv
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [User{id=1654332912880, name='timur', surname='tokaev'}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:101 - User added[3]: [User{id=1654332912880, name='timur', surname='tokaev'}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:114 - getUserID[1]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [User{id=1654332912880, name='timur', surname='tokaev'}]
+06.04:11.55.13 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:120 - Receiving record complete
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:154 - deleteUserById[1]:
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [User{id=1654332912880, name='timur', surname='tokaev'}]
+06.04:11.55.13 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:159 - Saving
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:166 - User deleted[2]:
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:49 - getUserById fail
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:81 - addUser[1]: User{id=17, name='timur', surname='tokaev'}
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/user.csv
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [User{id=17, name='timur', surname='tokaev'}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:101 - User added[3]: [User{id=17, name='timur', surname='tokaev'}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:114 - getUserID[1]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [User{id=17, name='timur', surname='tokaev'}]
+06.04:11.55.13 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:123 - Unable to receive User with id = 100
+06.04:11.55.13 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:124 - java.util.NoSuchElementException: No value present
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:154 - deleteUserById[1]:
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [User{id=17, name='timur', surname='tokaev'}]
+06.04:11.55.13 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:159 - Saving
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:166 - User deleted[2]:
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:699 - Start measureFat
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:845 - Start selectionMeasurement
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:799 - Start getFatPercentage
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:770 - Start getStage
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:81 - addUser[1]: User{id=28282, name='timur', surname='tokaev'}
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/user.csv
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:101 - User added[3]: [User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:298 - addTape[1]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:306 - []
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/tape.csv
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Tape{abdomen=64.0, neck=28.0, waist=0.0, hips=0.0}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:310 - Tape added[2]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:201 - addResult[1]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.13 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:42 - loadBeanCSV Error
+06.04:11.55.13 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:43 - java.lang.RuntimeException: Error capturing CSV header!
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:209 - []
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/result.csv
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332913357, userid=28282, stage=HEAlTHY}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:213 - Result added[2]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:699 - Start measureFat
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:845 - Start selectionMeasurement
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:799 - Start getFatPercentage
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:770 - Start getStage
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:81 - addUser[1]: User{id=28282, name='timur', surname='tokaev'}
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:91 - addUser[2]: replaced bean: Optional[User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/user.csv
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:101 - User added[3]: [User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:298 - addTape[1]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Tape{abdomen=64.0, neck=28.0, waist=0.0, hips=0.0}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:306 - [Tape{abdomen=64.0, neck=28.0, waist=0.0, hips=0.0}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/tape.csv
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Tape{abdomen=64.0, neck=28.0, waist=0.0, hips=0.0}, Tape{abdomen=62.0, neck=27.0, waist=0.0, hips=0.0}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:310 - Tape added[2]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:201 - addResult[1]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332913357, userid=28282, stage=HEAlTHY}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:209 - [Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332913357, userid=28282, stage=HEAlTHY}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/result.csv
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332913357, userid=28282, stage=HEAlTHY}, Result{date='04.06.2022', fatPercentage=11.773213351704534, resultid=1654332913541, userid=28282, stage=HEAlTHY}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:213 - Result added[2]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:456 - analysisExtended success
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:926 - Start analysis
+06.04:11.55.13  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:877 - getAllResultId[1]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332913357, userid=28282, stage=HEAlTHY}, Result{date='04.06.2022', fatPercentage=11.773213351704534, resultid=1654332913541, userid=28282, stage=HEAlTHY}]
+06.04:11.55.13 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:882 - Receiving record complete[Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332913357, userid=28282, stage=HEAlTHY}, Result{date='04.06.2022', fatPercentage=11.773213351704534, resultid=1654332913541, userid=28282, stage=HEAlTHY}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:950 - Start getDates
+06.04:11.55.13  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:877 - getAllResultId[1]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332913357, userid=28282, stage=HEAlTHY}, Result{date='04.06.2022', fatPercentage=11.773213351704534, resultid=1654332913541, userid=28282, stage=HEAlTHY}]
+06.04:11.55.13 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:882 - Receiving record complete[Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332913357, userid=28282, stage=HEAlTHY}, Result{date='04.06.2022', fatPercentage=11.773213351704534, resultid=1654332913541, userid=28282, stage=HEAlTHY}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:961 - Ended getDates
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:970 - Start findDates
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:997 - Start output
+06.04:11.55.13  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:1003 - Your first measurement was on 04.06.2022, the body fat percentage was 12.825498948131703%. Your last measurement was 04.06.2022, the percentage of body fat is 12.825498948131703%. After 0 days, you have gained 0.0% fat.
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:699 - Start measureFat
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:845 - Start selectionMeasurement
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:799 - Start getFatPercentage
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:770 - Start getStage
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:81 - addUser[1]: User{id=28282, name='timur', surname='tokaev'}
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/user.csv
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:101 - User added[3]: [User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:298 - addTape[1]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:306 - []
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/tape.csv
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Tape{abdomen=64.0, neck=28.0, waist=0.0, hips=0.0}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:310 - Tape added[2]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:201 - addResult[1]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.13 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:42 - loadBeanCSV Error
+06.04:11.55.13 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:43 - java.lang.RuntimeException: Error capturing CSV header!
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:209 - []
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/result.csv
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332913806, userid=28282, stage=HEAlTHY}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:213 - Result added[2]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:699 - Start measureFat
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:845 - Start selectionMeasurement
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:799 - Start getFatPercentage
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:770 - Start getStage
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:81 - addUser[1]: User{id=28282, name='timur', surname='tokaev'}
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:91 - addUser[2]: replaced bean: Optional[User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/user.csv
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:101 - User added[3]: [User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:298 - addTape[1]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Tape{abdomen=64.0, neck=28.0, waist=0.0, hips=0.0}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:306 - [Tape{abdomen=64.0, neck=28.0, waist=0.0, hips=0.0}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/tape.csv
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Tape{abdomen=64.0, neck=28.0, waist=0.0, hips=0.0}, Tape{abdomen=62.0, neck=27.0, waist=0.0, hips=0.0}]
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:310 - Tape added[2]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:201 - addResult[1]: 
+06.04:11.55.13 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332913806, userid=28282, stage=HEAlTHY}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:209 - [Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332913806, userid=28282, stage=HEAlTHY}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/result.csv
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332913806, userid=28282, stage=HEAlTHY}, Result{date='04.06.2022', fatPercentage=11.773213351704534, resultid=1654332913925, userid=28282, stage=HEAlTHY}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:213 - Result added[2]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:465 - analysisExtended failed
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:926 - Start analysis
+06.04:11.55.14  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:877 - getAllResultId[1]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332913806, userid=28282, stage=HEAlTHY}, Result{date='04.06.2022', fatPercentage=11.773213351704534, resultid=1654332913925, userid=28282, stage=HEAlTHY}]
+06.04:11.55.14 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:882 - Receiving record complete[Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332913806, userid=28282, stage=HEAlTHY}, Result{date='04.06.2022', fatPercentage=11.773213351704534, resultid=1654332913925, userid=28282, stage=HEAlTHY}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:950 - Start getDates
+06.04:11.55.14  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:877 - getAllResultId[1]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332913806, userid=28282, stage=HEAlTHY}, Result{date='04.06.2022', fatPercentage=11.773213351704534, resultid=1654332913925, userid=28282, stage=HEAlTHY}]
+06.04:11.55.14 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:882 - Receiving record complete[Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332913806, userid=28282, stage=HEAlTHY}, Result{date='04.06.2022', fatPercentage=11.773213351704534, resultid=1654332913925, userid=28282, stage=HEAlTHY}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:961 - Ended getDates
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:970 - Start findDates
+06.04:11.55.14 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:944 - java.util.NoSuchElementException: No value present
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:298 - updateThreeSiteSkinFold success
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:407 - addThreeSiteSkinFold[1]: ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:415 - []
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: ThreeSiteSkinFold
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: ThreeSiteSkinFold
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/threesiteskinfold.csv
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:419 - ThreeSiteSkinFold added[2]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:407 - addThreeSiteSkinFold[1]: ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:415 - [ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: ThreeSiteSkinFold
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: ThreeSiteSkinFold
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/threesiteskinfold.csv
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}, ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:419 - ThreeSiteSkinFold added[2]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:431 - updateThreeSiteSkinFold[1]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}, ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:433 - Loaded list in upd is[2]: [ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}, ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: ThreeSiteSkinFold
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: ThreeSiteSkinFold
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/threesiteskinfold.csv
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}, ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}]
+06.04:11.55.14 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:441 - Updating complete[3]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:453 - deleteThreeSiteSkinFoldById[1]:
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}, ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}]
+06.04:11.55.14 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:458 - Saving
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:465 - ThreeSiteSkinFold deleted[2]:
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:453 - deleteThreeSiteSkinFoldById[1]:
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:468 - No record with stated id
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:59 - updateUser success
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:81 - addUser[1]: User{id=17, name='timur', surname='tokarev'}
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/user.csv
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [User{id=17, name='timur', surname='tokarev'}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:101 - User added[3]: [User{id=17, name='timur', surname='tokarev'}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:81 - addUser[1]: User{id=17, name='timur', surname='tokarev'}
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [User{id=17, name='timur', surname='tokarev'}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:91 - addUser[2]: replaced bean: Optional[User{id=17, name='timur', surname='tokarev'}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/user.csv
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [User{id=17, name='timur', surname='tokarev'}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:101 - User added[3]: [User{id=17, name='timur', surname='tokarev'}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:132 - updateUser[1]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [User{id=17, name='timur', surname='tokarev'}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:134 - Loaded list in upd is[2]: [User{id=17, name='timur', surname='tokarev'}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/user.csv
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [User{id=17, name='timur', surname='tokarev'}]
+06.04:11.55.14 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:142 - Updating complete[3]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:154 - deleteUserById[1]:
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [User{id=17, name='timur', surname='tokarev'}]
+06.04:11.55.14 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:159 - Saving
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:166 - User deleted[2]:
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:154 - deleteUserById[1]:
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:169 - No record with stated id
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:278 - getThreeSiteSkinFoldById success
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:407 - addThreeSiteSkinFold[1]: ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:415 - []
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: ThreeSiteSkinFold
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: ThreeSiteSkinFold
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/threesiteskinfold.csv
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:419 - ThreeSiteSkinFold added[2]: 
+06.04:11.55.14  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:389 - getThreeSiteSkinFoldID[1]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}]
+06.04:11.55.14 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:395 - Receiving record complete
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:453 - deleteThreeSiteSkinFoldById[1]:
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}]
+06.04:11.55.14 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:458 - Saving
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:465 - ThreeSiteSkinFold deleted[2]:
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:699 - Start measureFat
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:845 - Start selectionMeasurement
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:799 - Start getFatPercentage
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:770 - Start getStage
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:81 - addUser[1]: User{id=28282, name='timur', surname='tokaev'}
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/user.csv
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:101 - User added[3]: [User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:298 - addTape[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:306 - []
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/tape.csv
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Tape{abdomen=64.0, neck=28.0, waist=0.0, hips=0.0}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:310 - Tape added[2]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:201 - addResult[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:42 - loadBeanCSV Error
+06.04:11.55.14 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:43 - java.lang.RuntimeException: Error capturing CSV header!
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:209 - []
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/result.csv
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332914437, userid=28282, stage=HEAlTHY}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:213 - Result added[2]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:699 - Start measureFat
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:845 - Start selectionMeasurement
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:799 - Start getFatPercentage
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:770 - Start getStage
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:81 - addUser[1]: User{id=28282, name='timur', surname='tokaev'}
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:91 - addUser[2]: replaced bean: Optional[User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/user.csv
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:101 - User added[3]: [User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:298 - addTape[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Tape{abdomen=64.0, neck=28.0, waist=0.0, hips=0.0}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:306 - [Tape{abdomen=64.0, neck=28.0, waist=0.0, hips=0.0}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/tape.csv
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Tape{abdomen=64.0, neck=28.0, waist=0.0, hips=0.0}, Tape{abdomen=62.0, neck=27.0, waist=0.0, hips=0.0}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:310 - Tape added[2]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:201 - addResult[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332914437, userid=28282, stage=HEAlTHY}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:209 - [Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332914437, userid=28282, stage=HEAlTHY}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/result.csv
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332914437, userid=28282, stage=HEAlTHY}, Result{date='04.06.2022', fatPercentage=11.773213351704534, resultid=1654332914504, userid=28282, stage=HEAlTHY}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:213 - Result added[2]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:438 - analysis success
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:892 - Start analysis
+06.04:11.55.14  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:877 - getAllResultId[1]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332914437, userid=28282, stage=HEAlTHY}, Result{date='04.06.2022', fatPercentage=11.773213351704534, resultid=1654332914504, userid=28282, stage=HEAlTHY}]
+06.04:11.55.14 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:882 - Receiving record complete[Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332914437, userid=28282, stage=HEAlTHY}, Result{date='04.06.2022', fatPercentage=11.773213351704534, resultid=1654332914504, userid=28282, stage=HEAlTHY}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:903 - ResultDate[Sat Jun 04 00:00:00 MSK 2022, Sat Jun 04 00:00:00 MSK 2022]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:997 - Start output
+06.04:11.55.14  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:1003 - Your first measurement was on 04.06.2022, the body fat percentage was 12.825498948131703%. Your last measurement was 04.06.2022, the percentage of body fat is 12.825498948131703%. After 0 days, you have gained 0.0% fat.
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:312 - updateThreeSiteSkinFold fail
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:407 - addThreeSiteSkinFold[1]: ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:415 - []
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: ThreeSiteSkinFold
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: ThreeSiteSkinFold
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/threesiteskinfold.csv
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:419 - ThreeSiteSkinFold added[2]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:431 - updateThreeSiteSkinFold[1]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:433 - Loaded list in upd is[2]: [ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}]
+06.04:11.55.14 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:444 - updateThreeSiteSkinFold Error
+06.04:11.55.14 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:445 - java.util.NoSuchElementException: No value present
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:453 - deleteThreeSiteSkinFoldById[1]:
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}]
+06.04:11.55.14 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:458 - Saving
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:465 - ThreeSiteSkinFold deleted[2]:
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:73 - updateUser fail
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:81 - addUser[1]: User{id=17, name='timur', surname='tokaev'}
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/user.csv
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [User{id=17, name='timur', surname='tokaev'}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:101 - User added[3]: [User{id=17, name='timur', surname='tokaev'}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:132 - updateUser[1]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [User{id=17, name='timur', surname='tokaev'}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:134 - Loaded list in upd is[2]: [User{id=17, name='timur', surname='tokaev'}]
+06.04:11.55.14 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:145 - updateUser Error
+06.04:11.55.14 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:146 - java.util.NoSuchElementException: No value present
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:154 - deleteUserById[1]:
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [User{id=17, name='timur', surname='tokaev'}]
+06.04:11.55.14 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:159 - Saving
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:166 - User deleted[2]:
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:288 - getThreeSiteSkinFoldById fail
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:407 - addThreeSiteSkinFold[1]: ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:415 - []
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: ThreeSiteSkinFold
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: ThreeSiteSkinFold
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/threesiteskinfold.csv
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:419 - ThreeSiteSkinFold added[2]: 
+06.04:11.55.14  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:389 - getThreeSiteSkinFoldID[1]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}]
+06.04:11.55.14 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:398 - Unable to receive ThreeSiteSkinFold with id = 100
+06.04:11.55.14 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:399 - java.util.NoSuchElementException: No value present
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:453 - deleteThreeSiteSkinFoldById[1]:
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}]
+06.04:11.55.14 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:458 - Saving
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:465 - ThreeSiteSkinFold deleted[2]:
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:699 - Start measureFat
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:845 - Start selectionMeasurement
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:799 - Start getFatPercentage
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:770 - Start getStage
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:81 - addUser[1]: User{id=28282, name='timur', surname='tokaev'}
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/user.csv
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:101 - User added[3]: [User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:298 - addTape[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:306 - []
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/tape.csv
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Tape{abdomen=64.0, neck=28.0, waist=0.0, hips=0.0}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:310 - Tape added[2]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:201 - addResult[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:42 - loadBeanCSV Error
+06.04:11.55.14 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:43 - java.lang.RuntimeException: Error capturing CSV header!
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:209 - []
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/result.csv
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332914759, userid=28282, stage=HEAlTHY}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:213 - Result added[2]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:699 - Start measureFat
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:845 - Start selectionMeasurement
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:799 - Start getFatPercentage
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:770 - Start getStage
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:81 - addUser[1]: User{id=28282, name='timur', surname='tokaev'}
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:91 - addUser[2]: replaced bean: Optional[User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/user.csv
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:101 - User added[3]: [User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:298 - addTape[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Tape{abdomen=64.0, neck=28.0, waist=0.0, hips=0.0}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:306 - [Tape{abdomen=64.0, neck=28.0, waist=0.0, hips=0.0}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/tape.csv
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Tape{abdomen=64.0, neck=28.0, waist=0.0, hips=0.0}, Tape{abdomen=62.0, neck=27.0, waist=0.0, hips=0.0}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:310 - Tape added[2]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:201 - addResult[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332914759, userid=28282, stage=HEAlTHY}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:209 - [Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332914759, userid=28282, stage=HEAlTHY}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/result.csv
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332914759, userid=28282, stage=HEAlTHY}, Result{date='04.06.2022', fatPercentage=11.773213351704534, resultid=1654332914797, userid=28282, stage=HEAlTHY}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:213 - Result added[2]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:447 - analysis failed
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:892 - Start analysis
+06.04:11.55.14  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:877 - getAllResultId[1]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332914759, userid=28282, stage=HEAlTHY}, Result{date='04.06.2022', fatPercentage=11.773213351704534, resultid=1654332914797, userid=28282, stage=HEAlTHY}]
+06.04:11.55.14 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:882 - Receiving record complete[]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:903 - ResultDate[]
+06.04:11.55.14 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:919 - java.util.NoSuchElementException: No value present
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:402 - deleteFourSiteSkinFold success
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:516 - addFourSiteSkinFold[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:524 - []
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: FourSiteSkinFold
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: FourSiteSkinFold
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/foursiteskinfold.csv
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:528 - FourSiteSkinFold added[2]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:562 - deleteFourSiteSkinFoldById[1]:
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}]
+06.04:11.55.14 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:567 - Saving
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:574 - FourSiteSkinFold deleted[2]:
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:562 - deleteFourSiteSkinFoldById[1]:
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:577 - No record with stated id
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:412 - deleteFourSiteSkinFold fail
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:516 - addFourSiteSkinFold[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:524 - []
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: FourSiteSkinFold
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: FourSiteSkinFold
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/foursiteskinfold.csv
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:528 - FourSiteSkinFold added[2]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:562 - deleteFourSiteSkinFoldById[1]:
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}]
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:577 - No record with stated id
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:562 - deleteFourSiteSkinFoldById[1]:
+06.04:11.55.14 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}]
+06.04:11.55.15 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:567 - Saving
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:574 - FourSiteSkinFold deleted[2]:
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:181 - addTapeTest success
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:298 - addTape[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:306 - []
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/tape.csv
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:310 - Tape added[2]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:344 - deleteTapeById[1]:
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}]
+06.04:11.55.15 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:349 - Saving
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:356 - Tape deleted[2]:
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:198 - getTapeById success
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:298 - addTape[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:306 - []
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/tape.csv
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:310 - Tape added[2]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:280 - getTapeID[1]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}]
+06.04:11.55.15 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:286 - Receiving record complete
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:344 - deleteTapeById[1]:
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}]
+06.04:11.55.15 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:349 - Saving
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:356 - Tape deleted[2]:
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:83 - deleteUser success
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:81 - addUser[1]: User{id=17, name='timur', surname='tokaev'}
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/user.csv
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [User{id=17, name='timur', surname='tokaev'}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:101 - User added[3]: [User{id=17, name='timur', surname='tokaev'}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:154 - deleteUserById[1]:
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [User{id=17, name='timur', surname='tokaev'}]
+06.04:11.55.15 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:159 - Saving
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:166 - User deleted[2]:
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:190 - addTape Test fail
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:298 - addTape[1]: 
+06.04:11.55.15 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:313 - addTape Error
+06.04:11.55.15 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:314 - java.lang.Exception: Adding Tape error, Tape equals null
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:208 - getTapeById fail
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:298 - addTape[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:306 - []
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/tape.csv
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:310 - Tape added[2]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:280 - getTapeID[1]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}]
+06.04:11.55.15 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:289 - Unable to receive Tape with id = 100
+06.04:11.55.15 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:290 - java.util.NoSuchElementException: No value present
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:344 - deleteTapeById[1]:
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}]
+06.04:11.55.15 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:349 - Saving
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:356 - Tape deleted[2]:
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:92 - deleteUser fail
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:81 - addUser[1]: User{id=17, name='timur', surname='tokaev'}
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/user.csv
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [User{id=17, name='timur', surname='tokaev'}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:101 - User added[3]: [User{id=17, name='timur', surname='tokaev'}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:154 - deleteUserById[1]:
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [User{id=17, name='timur', surname='tokaev'}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:169 - No record with stated id
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:154 - deleteUserById[1]:
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [User{id=17, name='timur', surname='tokaev'}]
+06.04:11.55.15 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:159 - Saving
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:166 - User deleted[2]:
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:102 - addResultTest success
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:201 - addResult[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:42 - loadBeanCSV Error
+06.04:11.55.15 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:43 - java.lang.RuntimeException: Error capturing CSV header!
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:209 - []
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/result.csv
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:213 - Result added[2]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:261 - addThreeSiteSkinFoldTest success
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:407 - addThreeSiteSkinFold[1]: ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:415 - []
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: ThreeSiteSkinFold
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: ThreeSiteSkinFold
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/threesiteskinfold.csv
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:419 - ThreeSiteSkinFold added[2]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:453 - deleteThreeSiteSkinFoldById[1]:
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}]
+06.04:11.55.15 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:458 - Saving
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:465 - ThreeSiteSkinFold deleted[2]:
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:110 - addResult Test fail
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:201 - addResult[1]: 
+06.04:11.55.15 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:216 - addResult Error
+06.04:11.55.15 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:217 - java.lang.Exception: Adding result error, result equals null
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:162 - deleteResult success
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:201 - addResult[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:209 - [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/result.csv
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=33.0, resultid=17, userid=11, stage=OBESE}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:213 - Result added[2]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:251 - deleteResultById[1]:
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=33.0, resultid=17, userid=11, stage=OBESE}]
+06.04:11.55.15 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:256 - Saving
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/result.csv
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:263 - Result deleted[2]:
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:270 - addThreeSiteSkinFold Test fail
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:407 - addThreeSiteSkinFold[1]: null
+06.04:11.55.15 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:422 - addThreeSiteSkinFold Error
+06.04:11.55.15 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:423 - java.lang.Exception: Adding ThreeSiteSkinFold error, ThreeSiteSkinFold equals null
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:218 - updateTape success
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:298 - addTape[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:306 - []
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/tape.csv
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:310 - Tape added[2]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:298 - addTape[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:306 - [Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/tape.csv
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}, Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:310 - Tape added[2]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:322 - updateTape[1]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}, Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:324 - Loaded list in upd is[2]: [Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}, Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/tape.csv
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}, Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}]
+06.04:11.55.15 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:332 - Updating complete[3]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:344 - deleteTapeById[1]:
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}, Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}]
+06.04:11.55.15 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:349 - Saving
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:356 - Tape deleted[2]:
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:344 - deleteTapeById[1]:
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:359 - No record with stated id
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:138 - updateResult success
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:201 - addResult[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:209 - [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/result.csv
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=22.0, resultid=17, userid=11, stage=OBESE}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:213 - Result added[2]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:201 - addResult[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=22.0, resultid=17, userid=11, stage=OBESE}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:209 - [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=22.0, resultid=17, userid=11, stage=OBESE}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/result.csv
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=22.0, resultid=17, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=22.0, resultid=17, userid=11, stage=OBESE}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:213 - Result added[2]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:226 - updateResult[1]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=22.0, resultid=17, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=22.0, resultid=17, userid=11, stage=OBESE}]
+06.04:11.55.15 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:228 - Loaded list in upd is[2]: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=22.0, resultid=17, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=22.0, resultid=17, userid=11, stage=OBESE}]
+06.04:11.55.15 TRACE	ru.sfedu.FatCalculator.utils.MongoManager:37 - Inserting bean into collection
+06.04:11.55.15 TRACE	ru.sfedu.FatCalculator.utils.MongoManager:21 - Connecting to mongoDB
+06.04:11.55.15  INFO	ru.sfedu.FatCalculator.utils.MongoManager:22 - mongodb://localhost:27017
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/result.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=22.0, resultid=17, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=22.0, resultid=17, userid=11, stage=OBESE}]
+06.04:11.55.46 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:239 - Updating complete[3]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:251 - deleteResultById[1]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=22.0, resultid=17, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=22.0, resultid=17, userid=11, stage=OBESE}]
+06.04:11.55.46 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:256 - Saving
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/result.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:263 - Result deleted[2]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:251 - deleteResultById[1]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:266 - No record with stated id
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:341 - addFourSiteSkinFoldTest success
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:516 - addFourSiteSkinFold[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:524 - []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: FourSiteSkinFold
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: FourSiteSkinFold
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/foursiteskinfold.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:528 - FourSiteSkinFold added[2]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:562 - deleteFourSiteSkinFoldById[1]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}]
+06.04:11.55.46 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:567 - Saving
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:574 - FourSiteSkinFold deleted[2]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:171 - deleteResult fail
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:201 - addResult[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:209 - [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/result.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=33.0, resultid=17, userid=11, stage=OBESE}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:213 - Result added[2]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:251 - deleteResultById[1]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=33.0, resultid=17, userid=11, stage=OBESE}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:266 - No record with stated id
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:251 - deleteResultById[1]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=33.0, resultid=17, userid=11, stage=OBESE}]
+06.04:11.55.46 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:256 - Saving
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/result.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:263 - Result deleted[2]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:322 - deleteThreeSiteSkinFold success
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:407 - addThreeSiteSkinFold[1]: ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:415 - []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: ThreeSiteSkinFold
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: ThreeSiteSkinFold
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/threesiteskinfold.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:419 - ThreeSiteSkinFold added[2]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:453 - deleteThreeSiteSkinFoldById[1]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}]
+06.04:11.55.46 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:458 - Saving
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:465 - ThreeSiteSkinFold deleted[2]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:232 - updateTape fail
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:298 - addTape[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:306 - []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/tape.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:310 - Tape added[2]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:322 - updateTape[1]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:324 - Loaded list in upd is[2]: [Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}]
+06.04:11.55.46 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:335 - updateTape Error
+06.04:11.55.46 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:336 - java.util.NoSuchElementException: No value present
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:344 - deleteTapeById[1]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}]
+06.04:11.55.46 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:349 - Saving
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:356 - Tape deleted[2]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:152 - updateResult fail
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:201 - addResult[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:209 - [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/result.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=33.0, resultid=17, userid=11, stage=OBESE}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:213 - Result added[2]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:226 - updateResult[1]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=33.0, resultid=17, userid=11, stage=OBESE}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:228 - Loaded list in upd is[2]: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=33.0, resultid=17, userid=11, stage=OBESE}]
+06.04:11.55.46 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:242 - updateResult Error
+06.04:11.55.46 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:243 - java.util.NoSuchElementException: No value present
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:251 - deleteResultById[1]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=33.0, resultid=17, userid=11, stage=OBESE}]
+06.04:11.55.46 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:256 - Saving
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/result.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:263 - Result deleted[2]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:350 - addFourSiteSkinFold Test fail
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:516 - addFourSiteSkinFold[1]: 
+06.04:11.55.46 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:531 - addFourSiteSkinFold Error
+06.04:11.55.46 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:532 - java.lang.Exception: Adding FourSiteSkinFold error, FourSiteSkinFold equals null
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:331 - deleteThreeSiteSkinFold fail
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:407 - addThreeSiteSkinFold[1]: ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:415 - []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: ThreeSiteSkinFold
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: ThreeSiteSkinFold
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/threesiteskinfold.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:419 - ThreeSiteSkinFold added[2]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:453 - deleteThreeSiteSkinFoldById[1]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:468 - No record with stated id
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:453 - deleteThreeSiteSkinFoldById[1]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{chest=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0, abdominal=22.0}]
+06.04:11.55.46 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:458 - Saving
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:465 - ThreeSiteSkinFold deleted[2]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:118 - getResultById success
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:201 - addResult[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:209 - [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/result.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=33.0, resultid=17, userid=11, stage=OBESE}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:213 - Result added[2]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:183 - getResultId[1]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=33.0, resultid=17, userid=11, stage=OBESE}]
+06.04:11.55.46 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:189 - Receiving record complete
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:251 - deleteResultById[1]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=33.0, resultid=17, userid=11, stage=OBESE}]
+06.04:11.55.46 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:256 - Saving
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/result.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:263 - Result deleted[2]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:378 - updateFourSiteSkinFold success
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:516 - addFourSiteSkinFold[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:524 - []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: FourSiteSkinFold
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: FourSiteSkinFold
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/foursiteskinfold.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:528 - FourSiteSkinFold added[2]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:516 - addFourSiteSkinFold[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:524 - [ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: FourSiteSkinFold
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: FourSiteSkinFold
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/foursiteskinfold.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}, ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:528 - FourSiteSkinFold added[2]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:540 - updateFourSiteSkinFold[1]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}, ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:542 - Loaded list in upd is[2]: [ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}, ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: FourSiteSkinFold
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: FourSiteSkinFold
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/foursiteskinfold.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}, ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}]
+06.04:11.55.46 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:550 - Updating complete[3]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:562 - deleteFourSiteSkinFoldById[1]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}, ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}]
+06.04:11.55.46 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:567 - Saving
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:574 - FourSiteSkinFold deleted[2]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:562 - deleteFourSiteSkinFoldById[1]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:577 - No record with stated id
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:128 - getResultById fail
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:201 - addResult[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:209 - [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/result.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=33.0, resultid=17, userid=11, stage=OBESE}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:213 - Result added[2]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:183 - getResultId[1]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=33.0, resultid=17, userid=11, stage=OBESE}]
+06.04:11.55.46 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:192 - Unable to receive Result with id = 100
+06.04:11.55.46 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:193 - java.util.NoSuchElementException: No value present
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:251 - deleteResultById[1]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=33.0, resultid=17, userid=11, stage=OBESE}]
+06.04:11.55.46 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:256 - Saving
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/result.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:263 - Result deleted[2]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:392 - updateFourSiteSkinFold fail
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:516 - addFourSiteSkinFold[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:524 - []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: FourSiteSkinFold
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: FourSiteSkinFold
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/foursiteskinfold.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:528 - FourSiteSkinFold added[2]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:540 - updateFourSiteSkinFold[1]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:542 - Loaded list in upd is[2]: [ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}]
+06.04:11.55.46 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:553 - updateFourSiteSkinFold Error
+06.04:11.55.46 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:554 - java.util.NoSuchElementException: No value present
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:562 - deleteFourSiteSkinFoldById[1]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}]
+06.04:11.55.46 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:567 - Saving
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:574 - FourSiteSkinFold deleted[2]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:241 - deleteTape success
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:298 - addTape[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:306 - []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/tape.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:310 - Tape added[2]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:344 - deleteTapeById[1]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}]
+06.04:11.55.46 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:349 - Saving
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:356 - Tape deleted[2]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:344 - deleteTapeById[1]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:359 - No record with stated id
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:251 - deleteTape fail
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:298 - addTape[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:306 - []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/tape.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:310 - Tape added[2]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:344 - deleteTapeById[1]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:359 - No record with stated id
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:344 - deleteTapeById[1]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Tape{abdomen=0.0, neck=22.0, waist=22.0, hips=22.0}]
+06.04:11.55.46 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:349 - Saving
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:356 - Tape deleted[2]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:358 - getFourSiteSkinFoldById success
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:516 - addFourSiteSkinFold[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:524 - []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: FourSiteSkinFold
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: FourSiteSkinFold
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/foursiteskinfold.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:528 - FourSiteSkinFold added[2]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:498 - getFourSiteSkinFoldID[1]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}]
+06.04:11.55.46 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:504 - Receiving record complete
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:562 - deleteFourSiteSkinFoldById[1]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}]
+06.04:11.55.46 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:567 - Saving
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:574 - FourSiteSkinFold deleted[2]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:368 - getFourSiteSkinFoldById fail
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:516 - addFourSiteSkinFold[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:524 - []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: FourSiteSkinFold
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: FourSiteSkinFold
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/foursiteskinfold.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:528 - FourSiteSkinFold added[2]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:498 - getFourSiteSkinFoldID[1]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}]
+06.04:11.55.46 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:507 - Unable to receive FourSiteSkinFold with id = 100
+06.04:11.55.46 ERROR	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:508 - java.util.NoSuchElementException: No value present
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:562 - deleteFourSiteSkinFoldById[1]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [ThreeSiteSkinfold{abdominal=22.0, thigh=22.0, tricep=22.0, suprailiac=22.0}]
+06.04:11.55.46 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:567 - Saving
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:574 - FourSiteSkinFold deleted[2]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:22 - addUserTest success
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:81 - addUser[1]: User{id=17, name='timur', surname='tokaev'}
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/user.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [User{id=17, name='timur', surname='tokaev'}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:101 - User added[3]: [User{id=17, name='timur', surname='tokaev'}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:154 - deleteUserById[1]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [User{id=17, name='timur', surname='tokaev'}]
+06.04:11.55.46 TRACE	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:159 - Saving
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:166 - User deleted[2]:
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsvTest:423 - measureFat success
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:699 - Start measureFat
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:845 - Start selectionMeasurement
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:799 - Start getFatPercentage
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:770 - Start getStage
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:81 - addUser[1]: User{id=28282, name='timur', surname='tokaev'}
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: User
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/user.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:101 - User added[3]: [User{id=28282, name='timur', surname='tokaev'}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:298 - addTape[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:306 - []
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Tape
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/tape.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Tape{abdomen=64.0, neck=28.0, waist=0.0, hips=0.0}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:310 - Tape added[2]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:201 - addResult[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:33 - Start loadBeanCSV[1]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:39 - Beans loaded[2]: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:209 - [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:66 - Class of elements inside list: Result
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:52 - Will write to:./src/main/resources/data/csv/result.csv
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:55 - ----WRITING----
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:56 - Wrote: [Result{date='22.11.2020', fatPercentage=27.0, resultid=1654332915217, userid=11, stage=OBESE}, Result{date='04.06.2022', fatPercentage=12.825498948131703, resultid=1654332946915, userid=28282, stage=HEAlTHY}]
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:213 - Result added[2]: 
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:770 - Start getStage
+06.04:11.55.46 DEBUG	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:732 - Start getInfo
+06.04:11.55.46  INFO	ru.sfedu.FatCalculator.dataprovider.DataProviderCsv:743 - timur tokaev at the age of 20, with a weight of 66.0 kg and a height of 179.0 cm, your body fat percentage is 12.825498948131703%, which is the norm for your characteristics. Continue to lead a healthy lifestyle and you will be fine.
